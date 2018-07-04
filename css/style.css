@@ -47,6 +47,10 @@ html, body {
   .jumboImageContainer{
       height: 100%;
   }
+
+  .navigation {
+    justify-content: flex-end;
+  }
  
 /* 
   1218
